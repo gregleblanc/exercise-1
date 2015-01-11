@@ -16,12 +16,20 @@ html {
 body{
 	text-align: center;
 	padding-top:18rem;
-	background-color: #C5EFF7;
+	background-color: #2980b9;
+}
+
+.wrapper{
+	background-color:#ecf0f1;
+	height: 15rem;
+	width: 50%;
+	padding-top: 3rem;
+	margin: 0 auto;
 }
 
 h1{
 	font-family: sans-serif;
-	color:#60adc0;
+	color:#3498db;
 
 }
 
