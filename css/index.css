@@ -59,7 +59,7 @@ h1{
 	border-left: solid #81CFE0;
 	border-left-width: 7px;
 	text-shadow: 1px 4px 6px #def, 0 0 0 #000, 1px 4px 6px #def;
-	color: rgba(129, 207, 224, 0.8);
+	color: rgba(255, 184, 0, 0.8);;
   background-color: #fff;
   transition: all linear 200ms;
 }
@@ -74,7 +74,7 @@ h1{
 	border-left: solid #81CFE0;
 	border-left-width: 7px;
 	text-shadow: 1px 4px 6px #def, 0 0 0 #000, 1px 4px 6px #def;
-	color: rgba(129, 207, 224, 0.8);
+	color: rgba(255, 184, 0, 0.8);;
   background-color: #fff;
   transition: all linear 200ms;
 }
